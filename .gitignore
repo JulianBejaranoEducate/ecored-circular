@@ -1,0 +1,11 @@
+backend/.venv/
+backend/.env
+backend/firebase.json
+
+frontend/.env
+
+__pycache__/
+*.pyc
+node_modules/
+dist/
+build/
