@@ -19,7 +19,7 @@
 # ============================================================
 
 @FIREBASE_API_KEY = AIzaSyAjKziIc-ihcKGWs7cQiT1isILkr6bJlP8
-@EMAIL = julianbejarano.10@hotmail.com
+@EMAIL = jeissonfarfan@hotmail.com
 @PASSWORD = Emanuel0125*
 @BACKEND_URL = http://127.0.0.1:8000
 
@@ -45,7 +45,7 @@ Content-Type: application/json
 Accept: application/json
 
 {
-  "name": "Empresa Prueba Firebase",
+  "name": "Uniempresarial - Fronted",
   "nit": "900123456-7",
   "city": "Bogotá",
   "sector": "Reciclaje"
