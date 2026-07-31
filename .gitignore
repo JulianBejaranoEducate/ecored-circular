@@ -3,9 +3,13 @@ backend/.env
 backend/firebase.json
 
 frontend/.env
+frontend/.env.example
+frontend/node_modules/
 
 __pycache__/
 *.pyc
 node_modules/
 dist/
 build/
+
+*.env
